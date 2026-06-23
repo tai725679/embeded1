@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-#define STRING "Hello World"
+#define STRING "Hello World 1"
 
 int main()
 {
